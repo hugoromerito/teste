@@ -382,10 +382,7 @@
  }
 ],
 "mapa":[
-// 20220609165741
-// https://servicodados.ibge.gov.br/api/v3/malhas/estados/33?formato=application/json&qualidade=maxima&intrarregiao=municipio
-
-{
+  {
   "type": "Topology",
   "arcs": [
     [
@@ -95894,7 +95891,7 @@
           ],
           "type": "MultiPolygon",
           "properties": {
-            "codarea": "3300100"
+            "codarea": "3300100", "name": "Angra dos Reis"
           }
         },
         {
@@ -96059,7 +96056,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "codarea": "3300456"
+            "codarea": "3300456", "name": "Belford Roxo"
           }
         },
         {
@@ -97916,6 +97913,6 @@
       ]
     }
   }
-}
+  }
 ]
 }
